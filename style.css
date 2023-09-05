@@ -64,6 +64,11 @@ body{
     color: black;
 }
 
+.youtube button{
+    height: 95px;
+    font-size: 22px;
+}
+
 .body button:hover{
     background-color: rgb(201, 47, 47);
     color: white;
