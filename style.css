@@ -37,7 +37,7 @@ body{
     color: white;
 }
 .profile_image{
-    box-shadow: 4px 4px 4px #adacac;
+    box-shadow: 4px 4px 4px #484848;
 }
 .container .header .logo1 img{
     width: 277px;
@@ -53,14 +53,15 @@ body{
 }
 
 .body button{
-    width: 90%;
+    width: 95%;
     height: 60px;
     border-radius: 16px;
     border:none;
-    box-shadow: 4px 4px 4px #adacac;
+    box-shadow: 4px 4px 4px #484848;
     background-color: rgb(237, 156, 42);
     margin: 10px 0;
     font-size: 16px;
+    color: black;
 }
 
 .body button:hover{
