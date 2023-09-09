@@ -67,6 +67,10 @@ body{
 .youtube button{
     height: 95px;
     font-size: 22px;
+    direction: rtl;
+}
+.youtube button i{
+    padding-top: 20px;
 }
 
 .body button:hover{
