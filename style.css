@@ -3,7 +3,7 @@ body{
     margin: 0;
     font-family: Arial, sans-serif;
     background-image: url("images/77.jpg");
-    height: 110vh;
+    height: 100vh;
     width: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -12,7 +12,7 @@ body{
 
 .overbackground{
     background-color: rgba(255, 255, 255, 0.393);
-    height: 100vh;
+    height: 110vh;
     width: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
